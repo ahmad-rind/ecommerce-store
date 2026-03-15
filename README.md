@@ -1,0 +1,18 @@
+# M&A E-Commerce Store 🛍️
+
+A front-end e-commerce platform for buying custom T-shirts.
+Built with pure HTML, CSS, and JavaScript — no frameworks.
+
+## 🔗 Live Demo
+[View Live](https://ahmadrid1234.github.io/ecommerce-store)
+
+## Features
+- Product listing page
+- Individual product detail page
+- Responsive design
+
+## Tech Stack
+HTML • CSS • JavaScript
+
+## Screenshots
+(add a screenshot of the homepage)
