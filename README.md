@@ -14,5 +14,10 @@ Built with pure HTML, CSS, and JavaScript — no frameworks.
 ## Tech Stack
 HTML • CSS • JavaScript
 
-## Screenshots
+## 📸 Screenshots
 
+### Home Page
+![![Homepage.png](https://i.postimg.cc/ZYG8N4vr/ma.png)](https://postimg.cc/G9jTw0Q2)
+
+### Shop Page
+[![Shop.png](https://i.postimg.cc/6qfpTrGY/image.png)](https://postimg.cc/GT9C5sKy)
