@@ -15,4 +15,4 @@ Built with pure HTML, CSS, and JavaScript — no frameworks.
 HTML • CSS • JavaScript
 
 ## Screenshots
-(add a screenshot of the homepage)
+
