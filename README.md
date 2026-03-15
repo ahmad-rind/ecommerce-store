@@ -4,7 +4,7 @@ A front-end e-commerce platform for buying custom T-shirts.
 Built with pure HTML, CSS, and JavaScript — no frameworks.
 
 ## 🔗 Live Demo
-[View Live](https://ahmadrid1234.github.io/ecommerce-store)
+[View Live](https://m-a-store.vercel.app/)
 
 ## Features
 - Product listing page
